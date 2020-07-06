@@ -1,5 +1,7 @@
 # Cancer-Detection-using-Machine-Learning
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com) 
+
+[![forthebadge](https://img.shields.io/badge/MACHINE-LEARNING-yellowgreen?style=for-the-badge)](https://forthebadge.com)
 ### I have done this project for practicing my Machine learning understanding and concepts.
 ### Cancer Detection using Machine Learning models. 
 ### I used three ML Models for this project.
