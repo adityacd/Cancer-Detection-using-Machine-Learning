@@ -7,8 +7,8 @@
 ### I used three ML Models for this project.
 
 * [Logistic Regression](https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc)
-* Decision Tree Classifier
-* Random Forest Classifier
+* [Decision Tree Classifier](https://towardsdatascience.com/decision-tree-classification-de64fc4d5aac)
+* [Random Forest Classifier](https://towardsdatascience.com/random-forest-classification-and-its-implementation-d5d840dbead0)
 
 The Logistic Regression has the better testing accuracy compared to the other models that I have used.
 
